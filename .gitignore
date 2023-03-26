@@ -2,3 +2,4 @@
 /my-website
 
 .pkl_memoize_py3
+*.out
